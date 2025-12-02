@@ -1,7 +1,7 @@
 # Clear Concise CRM – Salesforce Admin Project (Portfolio Documentation)
 
 ## **1. Project Overview**
-Clear Concise Consulting (CCC) needed a simple but scalable sales process inside Salesforce to manage incoming leads, convert them efficiently, and track deals through a clear pipeline. This project implements a full beginner-friendly CRM setup using Salesforce standard objects, automation, and dashboards.
+Clear Concise Consulting (CCC) required a straightforward yet scalable sales process within Salesforce to manage incoming leads, efficiently convert them, and track deals through a transparent pipeline. This project implements a comprehensive, simple CRM setup utilising Salesforce's standard objects, automation, and dashboards.
 
 The goal was to build:
 - A clean Lead → Opportunity qualification flow
@@ -115,7 +115,6 @@ Auto-create a Task:
 - Status: Not Started
 - Priority: Normal
 
-This reflects a real business onboarding process.
 
 ---
 
@@ -148,7 +147,7 @@ All features functioned correctly.
 
 ---
 
-## **10. Screenshots to Include (Add later)**
+## **10. Screenshots to Include **
 - Lead Status field setup
 - Service Interest field
 - Lead conversion mapping screen
@@ -172,10 +171,10 @@ Place these inside a folder or embed them in this page.
 
 ---
 
-## **12. GitHub Repository (Recommended Structure)**
+## **12. GitHub Repository**
 ```
-/CCC-Beginner-CRM-Project
-│ README.md  ← This full documentation
+/CCC-Simple-CRM-Project
+│ README.md 
 │ data-model.png
 │ flow-diagram.png
 │ screenshots/
@@ -186,27 +185,4 @@ Place these inside a folder or embed them in this page.
 │   flow-export.xml
 │   customfields.txt
 ```
-This mirrors the structure of a professional Salesforce portfolio.
 
----
-
-## **13. Walkthrough Video (Optional but Powerful)**
-Record a 2–3 minute Loom video covering:
-- Lead creation
-- Conversion
-- Opportunity stages
-- Flow firing on Closed Won
-- Dashboard updates
-
-Add the link here.
-
----
-
-## **14. Final Notes**
-This is a strong, beginner-friendly Salesforce Admin project suitable for:
-- LinkedIn showcase
-- Job applications
-- Recruiter portfolio
-- Foundation before Salesforce Developer learning
-
-Done properly, this single project establishes your admin fundamentals and prepares you perfectly for Apex, LWC, and PD1 certification.
