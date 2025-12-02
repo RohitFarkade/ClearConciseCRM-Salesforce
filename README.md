@@ -171,18 +171,5 @@ Place these inside a folder or embed them in this page.
 
 ---
 
-## **12. GitHub Repository**
-```
-/CCC-Simple-CRM-Project
-│ README.md 
-│ data-model.png
-│ flow-diagram.png
-│ screenshots/
-│   layout.png
-│   dashboard.png
-│   conversions.png
-│ metadata/
-│   flow-export.xml
-│   customfields.txt
-```
+
 
